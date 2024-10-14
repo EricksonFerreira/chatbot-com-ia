@@ -7,7 +7,7 @@
 **Windows:**
 ```bash
 python -m venv projeto
-projeto/Scripts/activate
+projeto/Scripts/activate ou  source projeto/Scripts/activate
 ```
 
 **Mac/Linux:**
@@ -28,3 +28,4 @@ pip install numpy openai python-dotenv tiktoken flask opencv-python
 - [Documentação Dall-E](https://openai.com/research/dall-e)
 - [Preços OpenAI](https://openai.com/pricing)
 - [Áudios Longos](https://platform.openai.com/docs/guides/speech-to-text/prompting)
+
